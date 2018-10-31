@@ -49,7 +49,7 @@ plt.show()
 ```
 <center>
 <img
-="pingyi1.png">
+src="pingyi1.png">
 连续时间信号的平移
 </center>
 
@@ -104,7 +104,7 @@ plt.show()
 ```
 <center>
 <img
-="pingyi2.png">
+src="pingyi2.png">
 离散信号的平移
 </center>
 
@@ -157,6 +157,12 @@ plt.plot(x,y2)
 plt.show()
 ```
 
+<center>
+<img
+src="fanzhe1.png">
+离散信号的平移
+</center>
+
 ```markdown
 import numpy as np
 import matplotlib.pyplot as plt
@@ -205,6 +211,12 @@ plt.title(r'$x[-n]$')
 plt.stem(x,y2)
 plt.show()
 ```
+<center>
+<img
+src="fanzhe2.png">
+离散信号的平移
+</center>
+
 
 ```markdown
 import numpy as np
@@ -324,6 +336,7 @@ plt.xlabel('波形右平移2')
 plt.show()
 ```
 <center>
-  <img
-  src="pingyi1.png">
+<img
+src="bianhuan1.png">
+离散信号的平移
 </center>
