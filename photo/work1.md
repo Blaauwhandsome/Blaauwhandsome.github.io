@@ -323,4 +323,7 @@ plt.xlabel('波形右平移2')
 
 plt.show()
 ```
-dsfdfsf
+<center>
+  <img
+  src="pingyi1.png">
+</center>
