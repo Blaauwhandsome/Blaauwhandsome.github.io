@@ -47,6 +47,7 @@ x=np.linspace(x0,x1,1000)
 k=np.linspace(x0,x1,1000)
 y=np.sin(ω*x)*u(k,0)
 plt.figure("x1(t)=sin(ωt)u(t)")
+plt.title(r'$x1(t)=sin(\omega t)u(t)$')
 plt.plot(x,y)
 
 #ω=π t0=1 x2(t)=sin(ω(t-t0)u(t)
