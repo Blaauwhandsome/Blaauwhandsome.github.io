@@ -1,3 +1,4 @@
+```markdown
 import numpy as np
 import matplotlib.pyplot as plt
 import mpl_toolkits.axisartist as axisartist
@@ -45,11 +46,11 @@ plt.title(r'$x(t+t_0)$')
 plt.plot(t,y2)
 
 plt.show()
-
+```
 <center>
 <img
 ="pingyi1.png">
-连续时间信号的平移
+离散信号的平移
 </center>
 
 import numpy as np
@@ -105,3 +106,23 @@ plt.show()
 ="pingyi2.png">
 离散信号的平移
 </center>
+
+
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
