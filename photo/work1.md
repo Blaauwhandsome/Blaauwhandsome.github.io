@@ -50,7 +50,7 @@ plt.show()
 <center>
 <img
 ="pingyi1.png">
-离散信号的平移
+连续时间信号的平移
 </center>
 
 ```markdown
