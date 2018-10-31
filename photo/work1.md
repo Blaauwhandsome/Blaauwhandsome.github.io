@@ -105,7 +105,7 @@ plt.show()
 <center>
 <img
 src="pingyi2.png">
-连续时间信号的平移
+离散信号的平移
 </center>
 
 ```markdown
@@ -160,7 +160,7 @@ plt.show()
 <center>
 <img
 src="fanzhe1.png">
-离散信号的平移
+连续信号的反褶
 </center>
 
 ```markdown
@@ -214,7 +214,7 @@ plt.show()
 <center>
 <img
 src="fanzhe2.png">
-离散信号的平移
+离散信号的反褶
 </center>
 
 
@@ -338,5 +338,5 @@ plt.show()
 <center>
 <img
 src="bianhuan1.png">
-离散信号的平移
+信号的变换
 </center>
