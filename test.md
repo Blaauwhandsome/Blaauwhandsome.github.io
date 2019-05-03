@@ -1,2 +1,2 @@
 Good Afternoon！everybody
-today is really agood day!
+today is really agood day
